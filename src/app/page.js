@@ -65,7 +65,7 @@ export default function Home() {
           <div className="p-6 text-center text-gray-600">
             <FaHeartbeat size={48} className="mx-auto mb-4 text-green-500" />
             <h2 className="text-xl font-semibold mb-2">Welcome to your AI Health Coach! 👋</h2>
-            <p className="mb-4">I'm here to help you with questions about:</p>
+            <p className="mb-4">I&apos;m here to help you with questions about:</p>
             <div className="grid grid-cols-2 gap-4 max-w-md mx-auto text-left">
               <ul className="space-y-2">
                 <li>🥗 Nutrition & Diet</li>
